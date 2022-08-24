@@ -1,16 +1,30 @@
-### Hi there 👋
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+
+### Hi there i'm BURAK⚡️ 
+
+
+<div align="center">
+  
+  ![giphy-2](https://user-images.githubusercontent.com/88562078/186393271-1768622e-af7f-4c92-9dfb-f2ae2ba180c3.gif)
+
+</div>
+
+<hr>   
+
+<div align="center">
+  
+### Connect with me:
+  
+  [![instagram](https://user-images.githubusercontent.com/88562078/186376242-642d3b8f-f282-40a9-91dc-61811059e915.png)](https://www.instagram.com/fburakk19/)
+[![twitter](https://user-images.githubusercontent.com/88562078/186376819-9c34b879-110b-4b87-aaf1-7916ba37cded.png)](https://twitter.com/fburakk19)
+[![spotify](https://user-images.githubusercontent.com/88562078/186377209-81fea4ea-df97-40ff-9cb5-91d55fbdb95f.png)](https://open.spotify.com/user/0zb9mt5l739qhnetaxanbsz51?si=94d8761802464dd1)
+
+</div>
+<hr>   
+
+<div align="center">
+  
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=fburakk&show_icons=true&theme=algolia)
+
+</div>
+
