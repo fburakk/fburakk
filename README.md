@@ -18,7 +18,7 @@
   [![instagram](https://user-images.githubusercontent.com/88562078/186376242-642d3b8f-f282-40a9-91dc-61811059e915.png)](https://www.instagram.com/fburakk19/)
 [![twitter](https://user-images.githubusercontent.com/88562078/186376819-9c34b879-110b-4b87-aaf1-7916ba37cded.png)](https://twitter.com/fburakk19)
 [![spotify](https://user-images.githubusercontent.com/88562078/186377209-81fea4ea-df97-40ff-9cb5-91d55fbdb95f.png)](https://open.spotify.com/user/0zb9mt5l739qhnetaxanbsz51?si=94d8761802464dd1)
-![174857](https://user-images.githubusercontent.com/88562078/193642670-6f91d95a-ab5d-42b9-9257-41d04e1b3ac6.png)(https://www.linkedin.com/in/burak-köse-0314ba151/)
+[![174857](https://user-images.githubusercontent.com/88562078/193642670-6f91d95a-ab5d-42b9-9257-41d04e1b3ac6.png)](https://www.linkedin.com/in/burak-köse-0314ba151/)
 
 
 </div>
