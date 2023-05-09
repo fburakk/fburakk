@@ -2,9 +2,7 @@
 <div align="center">
   
 ### Hi there i'm BURAK⚡️
-👾 iOS Developer at Superscore.app --- 
-🎓 CSE Student at Akdeniz University --- 
- 🌱 Feel free ask me about iOS Development and CSE 
+
 </div>
  
 
