@@ -25,12 +25,4 @@
 [![174857](https://user-images.githubusercontent.com/88562078/193642670-6f91d95a-ab5d-42b9-9257-41d04e1b3ac6.png)](https://www.linkedin.com/in/burak-köse-0314ba151/)
 
 
-</div>
-<hr>   
-
-<div align="center">
-  
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=fburakk&show_icons=true&theme=algolia)
-
-</div>
 
