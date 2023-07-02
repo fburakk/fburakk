@@ -1,28 +1,21 @@
+<h1 align="center">Hi 👋, I'm Burak⚡️</h1>
+<h3 align="center">iOS Developer & CSE Student</h3>
 
-<div align="center">
-  
-### Hi there i'm BURAK⚡️
+- 🔭 I’m currently working on [SuperScore.app](https://www.superscore.app/tr)
 
-</div>
- 
+- 🌱 I’m currently learning **SwiftUI**
 
+- 💬 Ask me about **Computer Science and iOS Development**
 
-<div align="center">
-  
-  ![giphy-2](https://user-images.githubusercontent.com/88562078/186393271-1768622e-af7f-4c92-9dfb-f2ae2ba180c3.gif)
+- 📫 How to reach me **fburakk19@gmail.com**
 
-</div>
+- ⚡ Fun fact **The term "robot" was coined by Czech playwright Karel Čapek in his 1920 play "R.U.R. (Rossum's Universal Robots)." It comes from the Czech word "robota," which means "forced labor."**
 
-<hr>   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/burak-k%c3%b6se-0314ba151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/burak-k%c3%b6se-0314ba151/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/fburakk19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fburakk19/" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  
-### Connect with me:
-  
-  [![instagram](https://user-images.githubusercontent.com/88562078/186376242-642d3b8f-f282-40a9-91dc-61811059e915.png)](https://www.instagram.com/fburakk19/)
-[![twitter](https://user-images.githubusercontent.com/88562078/186376819-9c34b879-110b-4b87-aaf1-7916ba37cded.png)](https://twitter.com/fburakk19)
-[![spotify](https://user-images.githubusercontent.com/88562078/186377209-81fea4ea-df97-40ff-9cb5-91d55fbdb95f.png)](https://open.spotify.com/user/0zb9mt5l739qhnetaxanbsz51?si=94d8761802464dd1)
-[![174857](https://user-images.githubusercontent.com/88562078/193642670-6f91d95a-ab5d-42b9-9257-41d04e1b3ac6.png)](https://www.linkedin.com/in/burak-köse-0314ba151/)
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
