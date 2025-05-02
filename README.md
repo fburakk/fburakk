@@ -3,13 +3,9 @@
 
 - 🔭 I’m currently working at [Webron Software UK](https://www.webronsoftware.co.uk)
 
-- 🌱 I’m currently learning **SwiftUI**
-
 - 💬 Ask me about **Computer Science and iOS Development**
 
 - 📫 How to reach me **fburakk19@gmail.com**
-
-- ⚡ Fun fact **The term "robot" was coined by Czech playwright Karel Čapek in his 1920 play "R.U.R. (Rossum's Universal Robots)." It comes from the Czech word "robota," which means "forced labor."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
